@@ -1,5 +1,5 @@
 # Examination Timetable  
- **Faculty of Applied Sciences - Rajarata University of Sri Lanka**
+ **FAS - RUSL**<br>
  **B. Sc. IT 1st Year Semester II Examination - Aug./Sep 2024** 
 
 ---
